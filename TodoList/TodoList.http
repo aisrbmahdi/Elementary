@@ -1,0 +1,6 @@
+@TodoList_HostAddress = http://localhost:5089
+
+GET {{HostAddress}}/ToDoController/
+Accept: application/json
+
+###
